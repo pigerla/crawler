@@ -8,7 +8,7 @@
 import scrapy
 from scrapy import item ,Field
 
-
+# Data set ,just like schema
 class CrawlerItem(scrapy.Item):
     # define the fields for your item here like:
     title = scrapy.Field()

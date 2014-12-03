@@ -15,3 +15,5 @@ crawler.crawl(thjySpider)
 crawler.start()
 log.start()
 reactor.run()
+
+# This is a sample above of running spider(s) by file but not command
