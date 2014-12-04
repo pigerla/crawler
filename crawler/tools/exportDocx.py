@@ -2,7 +2,9 @@ __author__ = 'spy'
 
 import pymongo
 from docx import Document
-conn = pymongo.Connection("localhost",27017)
+from crawler import settings
+
+conn = pymongo.Connection(settings.MONGODB_SERVER ,settings.MONGODB_PORT)
 db = conn.crawler
 items = db.thjy.find()
 document = Document()
