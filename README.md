@@ -29,7 +29,7 @@ This is a demo which shows how to crawl web page to get the content you want. le
     |- run_thjySpider.py      —— To run specified spider , like 'thjy'
     |- scrapy.cfg
     
-### preparation for exporting into doc file
+### Preparation for exporting into doc file
 
 Install **python-docx** module
 
