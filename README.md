@@ -45,7 +45,7 @@ And then :
     cd python-docx-{version}
     python setup.py install
     
-you can use **python-docx** now.
+you can enjoy **python-docx** now.
 
 #### Some examples for practice ? 
 
