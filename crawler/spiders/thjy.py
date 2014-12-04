@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import scrapy
 
-from docx import Document
 from scrapy.selector import Selector
 from scrapy import log
 from scrapy import Request
