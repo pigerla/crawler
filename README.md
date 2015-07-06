@@ -2,9 +2,12 @@ crawler
 =======
 
 > 这是一个python爬虫项目，基于Scrapy框架，仅供学习。
-> 准备知识：python语法知识，Scrapy框架知识，你常要跟网页打交道的，所以最好懂一些**前端知识**，再者，你要把数据存起来来吧，做持久化处理吧，所以还要懂数据库的知识，例如mongodb的读写。
-> 项目环境：**Ubuntu 14.04 LTS** + **Python 2.7.6** + **Scrapy 0.24.4** + **MongoDB shell version: 2.4.9**
-> IDE： PyCharm 3.4
+
+> **准备知识**：python语法知识，Scrapy框架知识，你常要跟网页打交道的，所以最好懂一些**前端知识**，再者，你要把数据存起来来吧，做持久化处理吧，所以还要懂数据库的知识，例如mongodb的读写。
+
+> **项目环境**：**Ubuntu 14.04 LTS** + **Python 2.7.6** + **Scrapy 0.24.4** + **MongoDB shell version: 2.4.9**
+
+> **IDE**： PyCharm 3.4
 
 ## 配置项目环境
 
